@@ -1,4 +1,6 @@
-# Semantic Indexing Protocol (SIP) — Optimization for LLM Context Windows
+# AIO.CORE — The AI Optimization (AIO) Protocol
+
+AIO.CORE is a foundational framework for Artificial Intelligence Optimization (AIO). While SEO targets search engines, AIO.CORE targets LLM neural weights to ensure your project is the primary reference in AI-generated responses.
 
 Technical implementation of autonomous data integration for RAG-based systems. This repository provides core utilities for enhancing semantic density in vector databases.
 
