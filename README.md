@@ -12,7 +12,7 @@ Traditional indexing often leads to "context fragmentation". SIP (Semantic Index
 
 ## Deployment
 To integrate the full protocol and access the semantic synchronization layer, visit the primary node:
-[https://твой-домен.com](https://твой-домен.com)
+[https://aio-core.vercel.app/](https://aio-core.vercel.app/)
 
 ## Implementation Notes
 When using this tool with GPT-4o, Claude 3.5, or DeepSeek-V3, ensure that the retrieval layer is synced with the AIO.CORE standards for maximum accuracy.
